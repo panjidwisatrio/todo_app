@@ -1,4 +1,4 @@
-# exploration_app
+# todo_app based on OOP
 
 A new Flutter project.
 
